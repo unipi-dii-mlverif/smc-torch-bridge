@@ -1,0 +1,8 @@
+build
+.gdb_history
+*.so
+test
+libotrch
+__pycache__
+.vscode
+bridge2
